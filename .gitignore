@@ -6,3 +6,8 @@
 /ch4/data//dbpedia_csv/test.csv
 /ch4/data/dbpedia_csv.tar.gz
 /ch4/d2v.model
+/ch4/glove.6B.zip
+/ch4/data/glove.6B.100d.txt
+/ch4/data/glove.6B.200d.txt
+/ch4/data/glove.6B.300d.txt
+/ch4/data/glove.6B.50d.txt
