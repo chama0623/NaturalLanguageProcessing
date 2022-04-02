@@ -1,0 +1,2 @@
+Azure API key : 916cae3bf76c4f269c3468771b7a9f29
+endpoint : https://entitylinking.cognitiveservices.azure.com/

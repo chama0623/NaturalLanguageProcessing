@@ -13,3 +13,4 @@
 /text-classification/data/glove.6B.50d.txt
 /information-extraction/data/*
 /information-extraction/ner-conll2003/*
+/information-extraction/Azure-API-key.txt
