@@ -14,3 +14,5 @@
 /information-extraction/data/*
 /information-extraction/ner-conll2003/*
 /information-extraction/Azure-API-key.txt
+/chatbot/data/
+/chatbot/glove.6B.zip
