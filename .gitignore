@@ -16,3 +16,8 @@
 /information-extraction/Azure-API-key.txt
 /chatbot/data/
 /chatbot/glove.6B.zip
+/text-classification/text/*
+/text-classification/ldcc-20140209.tar.gz
+/text-classification/checkpoint1.pt
+/text-classification/checkpoint2.pt
+/text-classification/checkpoint3.pt
